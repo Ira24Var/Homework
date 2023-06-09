@@ -1,0 +1,46 @@
+h1 {
+  text-align: center;
+}
+
+.black-color {
+  font-family: fantasy;
+  text-align: center;
+  font-weight: 700;
+}
+
+.white-color {
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: 700;
+}
+
+.blue-color {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-weight: 700;
+}
+
+.black1-color {
+  color: black;
+  text-align: left;
+  font-weight: 200;
+}
+
+.white1-color {
+  color: grey;
+  text-align: left;
+  font-weight: 200;
+}
+
+.blue1-color {
+  color: aqua;
+  text-align: left;
+  font-weight: 200;
+}
+
+.link {
+  font-size: 1.5em;
+  color: yellow;
+  text-align: end;
+  text-decoration: none;
+}

@@ -1,0 +1,36 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+  padding: 40px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #ffffff;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* Main content */
+
+.main-content {
+  padding-top: 88px;
+  padding-bottom: 88px;
+  padding-left: 88px;
+  padding-right: 88px;
+}
+
+/* About me */
+
+.my-profession {
+  padding-bottom: 18px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.prodject-item {
+  background-color: yellow;
+}
